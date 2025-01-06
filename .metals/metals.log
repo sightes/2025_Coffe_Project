@@ -140,3 +140,16 @@ ADVERTENCIA: Unmatched cancel notification for request id 10
 2025.01.04 23:00:01 INFO  Shutting down server
 2025.01.04 23:00:01 INFO  shutting down Metals
 2025.01.04 23:00:01 INFO  Exiting server
+2025.01.06 09:08:51 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Coffe_Project' for client Visual Studio Code 1.96.2.
+2025.01.06 09:08:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 06, 2025 9:08:53 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+ene 06, 2025 9:08:53 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+2025.01.06 09:11:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:11:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
