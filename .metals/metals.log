@@ -134,3 +134,9 @@ ADVERTENCIA: Unmatched cancel notification for request id 10
 2025.01.04 22:58:04 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala
 2025.01.04 22:58:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.01.04 22:58:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.04 22:59:17 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.04 22:59:21 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.04 22:59:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.04 23:00:01 INFO  Shutting down server
+2025.01.04 23:00:01 INFO  shutting down Metals
+2025.01.04 23:00:01 INFO  Exiting server
