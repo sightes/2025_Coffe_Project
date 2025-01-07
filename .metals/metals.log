@@ -153,3 +153,21 @@ ene 06, 2025 9:08:53 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancell
 ADVERTENCIA: Unmatched cancel notification for request id 10
 2025.01.06 09:11:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
 2025.01.06 09:11:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 06, 2025 9:24:25 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2025.01.06 22:30:39 INFO  Shutting down server
+2025.01.06 22:30:39 INFO  shutting down Metals
+2025.01.06 22:30:39 INFO  Exiting server
+2025.01.06 22:30:39 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
