@@ -171,3 +171,11 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.lang.Thread.run(Thread.java:1570)
 
+2025.01.07 22:34:05 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Coffe_Project' for client Visual Studio Code 1.96.2.
+2025.01.07 22:37:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:37:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:37:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 07, 2025 10:45:04 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+ene 07, 2025 10:45:04 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
