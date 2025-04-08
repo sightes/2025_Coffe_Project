@@ -195,3 +195,24 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.lang.Thread.run(Thread.java:1570)
 
+2025.04.08 13:48:25 INFO  Started: Metals version 1.5.2 in folders '/Users/sightes/Documents/GITHUB/2025_Coffe_Project' for client Visual Studio Code 1.99.0.
+2025.04.08 13:48:32 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:48:32 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt
+2025.04.08 13:48:32 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala
+2025.04.08 13:48:32 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala
+2025.04.08 13:48:35 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:48:36 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:49:39 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt
+2025.04.08 13:49:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:49:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:49:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:49:39 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt
+2025.04.08 13:49:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:49:39 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt
+2025.04.08 13:51:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:51:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:51:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_haversine_distance/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:52:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Coffe_Project/scala_calculadora_imc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.08 13:53:21 INFO  Shutting down server
+2025.04.08 13:53:21 INFO  shutting down Metals
+2025.04.08 13:53:21 INFO  Exiting server

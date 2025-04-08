@@ -1,0 +1,54 @@
+[
+    {
+      "data": {
+        "values": [
+          {
+            "inventory_year": "1990",
+            "values_": [
+              {
+                "variable_uid": "52ab74bd-0a97-4a23-a2fc-b1c63e884b7d",
+                "value": {
+                  "type": "number",
+                  "value": 286655.1603709401
+                },
+                "agg_disabled": "false",
+                "comments": []
+              },
+              {
+                "variable_uid": "f05d8ef0-cd04-4769-81be-303183271230",
+                "value": {
+                  "type": "number",
+                  "value": 250480.71234867387
+                },
+                "agg_disabled": "false",
+                "comments": []
+              }
+            ]
+          },
+          {
+            "inventory_year": "1991",
+            "values_": [
+              {
+                "variable_uid": "52ab74bd-0a97-4a23-a2fc-b1c63e884b7d",
+                "value": {
+                  "type": "number",
+                  "value": 286655.1603709401
+                },
+                "agg_disabled": "false",
+                "comments": []
+              },
+              {
+                "variable_uid": "f05d8ef0-cd04-4769-81be-303183271230",
+                "value": {
+                  "type": "number",
+                  "value": 250480.71234867387
+                },
+                "agg_disabled": "false",
+                "comments": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
