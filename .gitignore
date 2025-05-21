@@ -1,0 +1,6 @@
+*.csv
+/mi_api_llm/__pycache__
+.DS_Store
+mi_api_llm/qwen2.5.gguf
+checkpoints/lag-llama.ckpt
+*.ckpt
